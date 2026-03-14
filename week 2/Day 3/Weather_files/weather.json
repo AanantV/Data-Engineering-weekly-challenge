@@ -1,0 +1,65 @@
+[
+    {
+        "Generated on": "2026-03-14 20:41:38",
+        "City": "Chennai",
+        "Date": "2026-03-14",
+        "Maximum temperature in celsius": "30",
+        "Minimum temperature in celsius": "24",
+        "Maximum temperature in farenheit": "86",
+        "Minimum temperature in farenheit": "76"
+    },
+    {
+        "Generated on": "2026-03-14 20:41:38",
+        "City": "Chennai",
+        "Date": "2026-03-15",
+        "Maximum temperature in celsius": "30",
+        "Minimum temperature in celsius": "24",
+        "Maximum temperature in farenheit": "85",
+        "Minimum temperature in farenheit": "75"
+    },
+    {
+        "Generated on": "2026-03-14 20:41:38",
+        "City": "Chennai",
+        "Date": "2026-03-16",
+        "Maximum temperature in celsius": "30",
+        "Minimum temperature in celsius": "24",
+        "Maximum temperature in farenheit": "85",
+        "Minimum temperature in farenheit": "75"
+    },
+    {
+        "Generated on": "2026-03-14 20:42:01",
+        "City": "Mumbai",
+        "Date": "2026-03-14",
+        "Maximum temperature in celsius": "30",
+        "Minimum temperature in celsius": "27",
+        "Maximum temperature in farenheit": "85",
+        "Minimum temperature in farenheit": "81"
+    },
+    {
+        "Generated on": "2026-03-14 20:42:01",
+        "City": "Mumbai",
+        "Date": "2026-03-15",
+        "Maximum temperature in celsius": "29",
+        "Minimum temperature in celsius": "26",
+        "Maximum temperature in farenheit": "84",
+        "Minimum temperature in farenheit": "79"
+    },
+    {
+        "Generated on": "2026-03-14 21:41:11",
+        "City": "Chennai",
+        "Date": "2026-03-14",
+        "Maximum temperature in celsius": "30",
+        "Minimum temperature in celsius": "24",
+        "Maximum temperature in farenheit": "86",
+        "Minimum temperature in farenheit": "76"
+    },
+    {
+        "Generated on": "2026-03-14 21:41:11",
+        "City": "Chennai",
+        "Date": "2026-03-15",
+        "Maximum temperature in celsius": "30",
+        "Minimum temperature in celsius": "24",
+        "Maximum temperature in farenheit": "85",
+        "Minimum temperature in farenheit": "75"
+    }
+]
