@@ -170,10 +170,10 @@ def data_cleaner():
 
     def save_cleaned_data(df, updates):
         try:
-            old_df = get_data(df)
-            print(old_df)
             df.to_csv(updates, index = True)
             print(f"Cleaned Data saved on path: {updates}")
+            total_nulls_left = df.isnull().sum().sum()
+            print(f"Total Nulls Remaining: {total_nulls_left}")
 
         except Exception as e:
             print(f"Data Save failed: {e}")
